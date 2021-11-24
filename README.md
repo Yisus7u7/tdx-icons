@@ -14,8 +14,8 @@ cd tdx-icons
 cd .. && rm -rf tdx-icons
 ```
 
-you can change the $ PREFIX / share / icons path to another if you want, example:
-$HOME/.icons
+you can change the `$PREFIX/share/icons` path to another if you want, example:
+`$HOME/.icons`
 
 More information in :
 
